@@ -2,20 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "extralite";
-  src: url("public/fonts/Metropolis Font family/Metropolis-ExtraLight.otf");
-}
 
-@font-face {
-  font-family: "bold";
-  src: url("public/fonts/Metropolis Font family/Metropolis-Bold.otf");
-}
 
-@font-face {
-  font-family: "thin";
-  src: url("public/fonts/Metropolis Font family/Metropolis-Thin.otf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;700&family=Poppins:wght@100;400;600&display=swap');
 
 * {
     padding: 0;

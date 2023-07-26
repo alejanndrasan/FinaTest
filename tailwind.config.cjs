@@ -16,8 +16,7 @@ module.exports = {
     
     },
     fontFamily: {
-      thin: ['thin'],
-      bold: ['bold']
+      Monserrat: ['Montserrat'],
     },
     
     
