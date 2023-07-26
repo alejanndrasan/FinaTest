@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "extralite";
+  src: url("public/fonts/Metropolis Font family/Metropolis-ExtraLight.otf");
+}
+
+@font-face {
+  font-family: "bold";
+  src: url("public/fonts/Metropolis Font family/Metropolis-Bold.otf");
+}
+
+@font-face {
+  font-family: "thin";
+  src: url("public/fonts/Metropolis Font family/Metropolis-Thin.otf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
